@@ -1,4 +1,4 @@
-# 👨‍💻 Alexandru-Robert Cristinescu
+# 💻 Alexandru-Robert Cristinescu
 
 **`Developer/Designer/Editor`**
 
